@@ -20,7 +20,7 @@ class MyApp extends StatelessWidget {
     return StoreProvider(
       store: store,
       child: MaterialApp(
-          title: 'Flutter Demo',
+          title: 'Flutter Redux Demo',
           theme: ThemeData(
             primarySwatch: Colors.blue,
           ),
